@@ -1,6 +1,6 @@
-# 🎮 Quiz Royale - The Battle-Style Quiz Game
+# 🎮 THE KNOWLEDGE ARENA - Battle-Style Quiz Game
 
-Welcome to **Quiz Royale**, an epic battle-style quiz game where knowledge is your weapon and strategy is your shield!
+Welcome to **The Knowledge Arena**, an epic battle-style quiz game where knowledge is your weapon and strategy is your shield!
 
 ## 🏰 Game Features
 
