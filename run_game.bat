@@ -1,0 +1,9 @@
+@echo off
+echo 🎮 Starting Quiz Royale...
+echo.
+echo Installing dependencies...
+pip install -r requirements.txt
+echo.
+echo 🚀 Launching the game...
+streamlit run quiz_royale.py
+pause

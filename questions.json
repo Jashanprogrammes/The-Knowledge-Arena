@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "question": "Who directed the movie 'Inception'?",
+    "options": ["Christopher Nolan", "Steven Spielberg", "Martin Scorsese", "Quentin Tarantino"],
+    "answer_index": 0,
+    "category": "Hollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which actor played Jack in 'Titanic'?",
+    "options": ["Brad Pitt", "Leonardo DiCaprio", "Tom Cruise", "Johnny Depp"],
+    "answer_index": 1,
+    "category": "Hollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "Who starred in 'Dilwale Dulhania Le Jayenge'?",
+    "options": ["Shah Rukh Khan", "Aamir Khan", "Salman Khan", "Akshay Kumar"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "Which Bollywood movie is known as 'DDLJ'?",
+    "options": ["Dilwale Dulhania Le Jayenge", "Dil To Pagal Hai", "Dil Se", "Dil Chahta Hai"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "Which sport is played at Wimbledon?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "answer_index": 0,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "How many players are on a basketball team?",
+    "options": ["4", "5", "6", "7"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer_index": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+    "answer_index": 1,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "question": "Which country is famous for the Great Wall?",
+    "options": ["India", "Japan", "China", "South Korea"],
+    "answer_index": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "Which movie won the Oscar for Best Picture in 2020?",
+    "options": ["Joker", "1917", "Parasite", "Once Upon a Time in Hollywood"],
+    "answer_index": 2,
+    "category": "Hollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "question": "Who played the Joker in 'The Dark Knight'?",
+    "options": ["Jack Nicholson", "Heath Ledger", "Joaquin Phoenix", "Jared Leto"],
+    "answer_index": 1,
+    "category": "Hollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "question": "Who composed the music for 'Lagaan'?",
+    "options": ["A.R. Rahman", "Anu Malik", "Jatin-Lalit", "Vishal-Shekhar"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "question": "Which Bollywood actor is known as 'King Khan'?",
+    "options": ["Aamir Khan", "Shah Rukh Khan", "Salman Khan", "Akshay Kumar"],
+    "answer_index": 1,
+    "category": "Bollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "options": ["Germany", "Brazil", "France", "Argentina"],
+    "answer_index": 2,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 15,
+    "question": "Who is known as 'The King of Clay' in tennis?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Andy Murray"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "In which year did World War II end?",
+    "options": ["1944", "1945", "1946", "1947"],
+    "answer_index": 1,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Nikola Tesla", "Thomas Edison", "James Watt"],
+    "answer_index": 0,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "question": "Which ancient wonder was located in Alexandria?",
+    "options": ["Hanging Gardens", "Colossus of Rhodes", "Lighthouse of Alexandria", "Temple of Artemis"],
+    "answer_index": 2,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "question": "Which movie franchise has the highest box office collection?",
+    "options": ["Marvel Cinematic Universe", "Star Wars", "Harry Potter", "Fast & Furious"],
+    "answer_index": 0,
+    "category": "Hollywood",
+    "difficulty": "hard"
+  },
+  {
+    "id": 20,
+    "question": "Who directed 'Pulp Fiction'?",
+    "options": ["Martin Scorsese", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan"],
+    "answer_index": 1,
+    "category": "Hollywood",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "question": "Which Bollywood movie was India's first official entry to Oscars?",
+    "options": ["Mother India", "Pather Panchali", "Salaam Bombay", "Lagaan"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "hard"
+  },
+  {
+    "id": 22,
+    "question": "Who directed 'Sholay'?",
+    "options": ["Ramesh Sippy", "Yash Chopra", "Raj Kapoor", "Guru Dutt"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "hard"
+  },
+  {
+    "id": 23,
+    "question": "Which Indian cricketer has scored the most Test centuries?",
+    "options": ["Sachin Tendulkar", "Rahul Dravid", "Sunil Gavaskar", "Virat Kohli"],
+    "answer_index": 0,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 24,
+    "question": "Who won the Formula 1 World Championship in 2020?",
+    "options": ["Lewis Hamilton", "Max Verstappen", "Valtteri Bottas", "Sebastian Vettel"],
+    "answer_index": 0,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 25,
+    "question": "Who was the first emperor of the Roman Empire?",
+    "options": ["Julius Caesar", "Augustus", "Nero", "Marcus Aurelius"],
+    "answer_index": 1,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "Who wrote 'The Art of War'?",
+    "options": ["Confucius", "Sun Tzu", "Lao Tzu", "Mencius"],
+    "answer_index": 1,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "id": 27,
+    "question": "Who was the last Tsar of Russia?",
+    "options": ["Alexander III", "Nicholas II", "Peter the Great", "Catherine the Great"],
+    "answer_index": 1,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "id": 28,
+    "question": "Which movie won the Academy Award for Best Picture in 2021?",
+    "options": ["Nomadland", "The Trial of the Chicago 7", "Mank", "Minari"],
+    "answer_index": 0,
+    "category": "Hollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+    "options": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+    "answer_index": 1,
+    "category": "Hollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 30,
+    "question": "Which Bollywood movie features the song 'Chaiyya Chaiyya'?",
+    "options": ["Dil Se", "Kuch Kuch Hota Hai", "Kabhi Khushi Kabhie Gham", "Dilwale Dulhania Le Jayenge"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 31,
+    "question": "Who is known as the 'Badshah of Bollywood'?",
+    "options": ["Aamir Khan", "Shah Rukh Khan", "Salman Khan", "Akshay Kumar"],
+    "answer_index": 1,
+    "category": "Bollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 32,
+    "question": "Which sport uses a shuttlecock?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "How many players are on a football team?",
+    "options": ["10", "11", "12", "13"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "What is the capital of Japan?",
+    "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+    "answer_index": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answer_index": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "id": 36,
+    "question": "Which movie won Best Picture at the 2022 Oscars?",
+    "options": ["Dune", "CODA", "The Power of the Dog", "West Side Story"],
+    "answer_index": 1,
+    "category": "Hollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "Who directed 'The Godfather'?",
+    "options": ["Martin Scorsese", "Francis Ford Coppola", "Steven Spielberg", "Alfred Hitchcock"],
+    "answer_index": 1,
+    "category": "Hollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": 38,
+    "question": "Which Bollywood movie was the first Indian film to win an Oscar?",
+    "options": ["Lagaan", "Slumdog Millionaire", "Gandhi", "Mother India"],
+    "answer_index": 1,
+    "category": "Bollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": 39,
+    "question": "Who composed the music for 'Taal'?",
+    "options": ["A.R. Rahman", "Anu Malik", "Jatin-Lalit", "Vishal-Shekhar"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": 40,
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["Japan", "Brazil", "Russia", "United Kingdom"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 41,
+    "question": "Who won the FIFA World Cup in 2014?",
+    "options": ["Germany", "Brazil", "Argentina", "Spain"],
+    "answer_index": 0,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 42,
+    "question": "In which year did the Berlin Wall fall?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "answer_index": 2,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "id": 43,
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Marie Curie", "Rosalind Franklin", "Dorothy Hodgkin", "Barbara McClintock"],
+    "answer_index": 0,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "id": 44,
+    "question": "Which movie has the highest box office collection of all time?",
+    "options": ["Avatar", "Avengers: Endgame", "Titanic", "Star Wars: The Force Awakens"],
+    "answer_index": 0,
+    "category": "Hollywood",
+    "difficulty": "hard"
+  },
+  {
+    "id": 45,
+    "question": "Who directed 'Citizen Kane'?",
+    "options": ["Orson Welles", "Alfred Hitchcock", "Charlie Chaplin", "John Ford"],
+    "answer_index": 0,
+    "category": "Hollywood",
+    "difficulty": "hard"
+  },
+  {
+    "id": 46,
+    "question": "Which Bollywood movie was the first to be shot entirely in Kashmir?",
+    "options": ["Roja", "Dil Se", "Mission Kashmir", "Fanaa"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "hard"
+  },
+  {
+    "id": 47,
+    "question": "Who directed 'Mughal-e-Azam'?",
+    "options": ["K. Asif", "Mehboob Khan", "Raj Kapoor", "Guru Dutt"],
+    "answer_index": 0,
+    "category": "Bollywood",
+    "difficulty": "hard"
+  },
+  {
+    "id": 48,
+    "question": "Which country has won the most Olympic gold medals in history?",
+    "options": ["United States", "Soviet Union", "Germany", "China"],
+    "answer_index": 0,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 49,
+    "question": "Who holds the record for most Grand Slam titles in tennis?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 50,
+    "question": "Who was the first person to reach the South Pole?",
+    "options": ["Robert Falcon Scott", "Roald Amundsen", "Ernest Shackleton", "Edmund Hillary"],
+    "answer_index": 1,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "id": 51,
+    "question": "Who wrote 'The Prince'?",
+    "options": ["Niccolò Machiavelli", "Thomas Hobbes", "John Locke", "Jean-Jacques Rousseau"],
+    "answer_index": 0,
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "id": 52,
+    "question": "Which movie won the Palme d'Or at Cannes in 2019?",
+    "options": ["Parasite", "Once Upon a Time in Hollywood", "The Lighthouse", "Pain and Glory"],
+    "answer_index": 0,
+    "category": "Hollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 53,
+    "question": "Who played Captain Jack Sparrow in Pirates of the Caribbean?",
+    "options": ["Orlando Bloom", "Johnny Depp", "Geoffrey Rush", "Keira Knightley"],
+    "answer_index": 1,
+    "category": "Hollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 54,
+    "question": "Which Bollywood movie features the song 'Kuch Kuch Hota Hai'?",
+    "options": ["Dilwale Dulhania Le Jayenge", "Kuch Kuch Hota Hai", "Kabhi Khushi Kabhie Gham", "Dil To Pagal Hai"],
+    "answer_index": 1,
+    "category": "Bollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 55,
+    "question": "Who is known as the 'Khiladi' of Bollywood?",
+    "options": ["Aamir Khan", "Shah Rukh Khan", "Salman Khan", "Akshay Kumar"],
+    "answer_index": 3,
+    "category": "Bollywood",
+    "difficulty": "easy"
+  },
+  {
+    "id": 56,
+    "question": "Which sport is played at Roland Garros?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "answer_index": 0,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 57,
+    "question": "How many players are on a volleyball team?",
+    "options": ["5", "6", "7", "8"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 58,
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer_index": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "id": 59,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "answer_index": 1,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "id": 60,
+    "question": "Which sport is played at the Masters Tournament?",
+    "options": ["Golf", "Tennis", "Swimming", "Cycling"],
+    "answer_index": 0,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 61,
+    "question": "Who won the Wimbledon men's singles title in 2021?",
+    "options": ["Novak Djokovic", "Rafael Nadal", "Roger Federer", "Andy Murray"],
+    "answer_index": 0,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "question": "Which country won the UEFA Euro 2020?",
+    "options": ["England", "Italy", "Spain", "Germany"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 63,
+    "question": "How many players are on a cricket team?",
+    "options": ["10", "11", "12", "13"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 64,
+    "question": "Which sport uses a puck?",
+    "options": ["Soccer", "Basketball", "Hockey", "Tennis"],
+    "answer_index": 2,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 65,
+    "question": "Who is known as 'The Greatest' in boxing?",
+    "options": ["Mike Tyson", "Muhammad Ali", "Floyd Mayweather", "Manny Pacquiao"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 66,
+    "question": "Which country has won the most Olympic gold medals in history?",
+    "options": ["China", "Russia", "United States", "Germany"],
+    "answer_index": 2,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 67,
+    "question": "Who holds the record for most goals in a single FIFA World Cup?",
+    "options": ["Pele", "Just Fontaine", "Gerd Muller", "Ronaldo"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 68,
+    "question": "Which tennis player has won the most Grand Slam titles in the Open Era?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "answer_index": 2,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 69,
+    "question": "Who is the only player to score 100 goals in a single football season?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Pele", "Gerd Muller"],
+    "answer_index": 3,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": 70,
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Brazil", "Argentina", "Italy"],
+    "answer_index": 1,
+    "category": "Sports",
+    "difficulty": "hard"
+  }
+]
